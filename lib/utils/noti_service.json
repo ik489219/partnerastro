@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "astro-food-pay",
+  "private_key_id": "69d9d03ce7f98ec3608a72f687b23299f45a629a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDm7WfJLdoFWcYO\nqtC5hn52z9d6lBxBPn29lLjXuJrvXjkh88w2u4xK0HzvSNCfYq429M6qIuwgO5Bb\nO7/cEN2xG4NLWzYL7W4JHFyfwiuW4kBqLNdHcyMQK57KnMb5MMNKXOH00BjLzYX0\noFDJDO3aMI8t+XAOvNVzhI3lhUX8RnXbbPs0Cs03HY8A+klg82Uv1Kiw3/DfyshW\nEO5b1pM+8PGjKEIbtoLZg0BmK4tEsAScwSmfGHv6LNRBau1Qy4RYjjc7cB6epJ//\nG7KxRmkupExYzLMGPI3Rq7byv6EdFKLYUE8WsYTuszkC27re5g7tZ88nStXHbRa5\nrusE20oHAgMBAAECggEANDS3oeObxlnlTKuRRGADdxjFvhB90sIt6w4UO7CgVj0W\n7XYQVM9RiBhaJj5v65iDiikOD6iVeTP+DqITXczyUXfG1uJn9YpXtfeTeQqMkC/W\nICrDAIQnCSDTZTrMQMmlXMpiytXAxVJRVlxn5wvlOc6AkAQ0MSC/oL321kyq5b0a\nG8B3TATud4LxJnndq7bOlbEVL5IP+XCVhVMPvGRt8Uszi2+zehW2D3GJ//7Zs3Ry\nJXZYMwPiWI6m6zfJdNb0uqXx1vZHNuqy9KEQUkwqc4EH4Fr7zpK7H/I5/0cqXhhi\ngWJriTNBgJYk6BjYaUEgaXsFeb1gsDSyAvfNSCdiAQKBgQD+WZ12H1ujbtzkX9o8\n6T99Y5j2r9VU+73mqrR79TmS9RI6XYUC8MTigDmFYGHbY7hbxnzYfhvscmQ5JAh4\nd/NhOvaZVzuGQnKypkeGYB1ebFKNTzIYmFaACTE9Wyokc1remQE/WZybBn3AtcJE\nfbxEF9lj6WocAHHJy7/eHj5EzwKBgQDobOTBIgT13p8QwY6PaYaqNUr9MHeKjTue\n8OFV72NRvqdXOfhqIEeaLXnykGqxxi7atGRtKnQsnrZeZmRPlWGl2jqC2hzZ7dry\n40PGzIVvZTsoEUuaQ6A4CPBZxgI+pUE4d58C0h0Fw07PI6tsZAob7fapXMq0kPq1\nkxYG0cxlSQKBgFy+np0I2Chi72bS0MgvIPh+zbL98KMZXGh0zHT6uTCt7iScHzkw\nRAp3SQIqX+RYm0vTt4hVi6cPGx5+1hvfWT6V+n91gH33Us1ztlb4Sx04EG34d8Li\nIYB0WaEO0fISogrS7dKEwYcBue8AF8NTucd2js1QumFVhChaBC9hBcGfAoGBALm3\n4WXNmCcalwGdmBtSF+/Dm8MKSkrkpYJQOc4f9b2o2TAiuzOZzX0N34aKDSc2E9Rg\nFmsAZEoPG+v8ZyUMWTVcViqevDULEUvJeyvL2sdzHTzb7Qw8AzcjNWKWjM6f36iO\nNPndCKHFOSDdAKogmc9Nay5TXgnAWwRhnlUeqPM5AoGAU1TxJp0H1Sl69hz4Jd9K\nhjhLZIasAeRNUDgNJqKBLu5JfbspbY3MYAKZJ0t0XTj8S0IguUyrGptlKPk6iEIe\naBlPoVa8D43AwXDxXWFzvw4vFX/HI4kJ5veE5pYLlLoWuN86tULpxcTDnNWDBvzZ\nN/IOGuHpOM/gL9s4jlDepT8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xqvr9@astro-food-pay.iam.gserviceaccount.com",
+  "client_id": "107129863095826155687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xqvr9%40astro-food-pay.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

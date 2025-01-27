@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "888082517735",
+    "firebase_url": "https://astro-food-pay-default-rtdb.firebaseio.com",
+    "project_id": "astro-food-pay",
+    "storage_bucket": "astro-food-pay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888082517735:android:a0772cfe4135b9c1e2dc42",
+        "android_client_info": {
+          "package_name": "com.astromeet.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888082517735-7r96ssrm3v7nems6dbk5rl16fc0f2ef6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9VC2uSMaelLSuWJioMnz_VOMo3gs9DUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888082517735-7r96ssrm3v7nems6dbk5rl16fc0f2ef6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888082517735:android:f01de201e81abb2ce2dc42",
+        "android_client_info": {
+          "package_name": "com.astromeet.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888082517735-7a8492pak2pha1d26c4efbfgq9r3o60b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astromeet.user",
+            "certificate_hash": "16ca9c3fc8a7eae4132b85a1331376bae66a5642"
+          }
+        },
+        {
+          "client_id": "888082517735-7r96ssrm3v7nems6dbk5rl16fc0f2ef6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9VC2uSMaelLSuWJioMnz_VOMo3gs9DUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888082517735-7r96ssrm3v7nems6dbk5rl16fc0f2ef6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
