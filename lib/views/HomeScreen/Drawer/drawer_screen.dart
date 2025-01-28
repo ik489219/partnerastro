@@ -54,7 +54,8 @@ class DrawerScreen extends StatelessWidget {
 
                   child: signupController.astrologerList.isNotEmpty &&
                           global.user.imagePath != null &&
-                          global.user.imagePath!.isNotEmpty
+                          global.user.imagePath!.isNotEmpty &&
+                          signupController.astrologerList[0]!.imagePath != null
                       ? signupController
                               .astrologerList[0]!.imagePath!.isNotEmpty
                           ? Container(

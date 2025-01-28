@@ -434,7 +434,7 @@ class APIHelper {
       );
       // log('getAstrologerProfile api= ${response.body}');
       dynamic recordList;
-      debugPrint('HISTORY-RESPONSE ${response.body}');
+      log('HISTORY-RESPONSE ${response.body}');
       debugPrint('HISTORY-RESPONSE code ${response.statusCode}');
       if (response.statusCode == 200) {
         recordList = List<CurrentUser>.from(json

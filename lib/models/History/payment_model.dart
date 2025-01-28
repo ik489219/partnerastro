@@ -2,7 +2,7 @@ class Payment {
   int? id;
   String? paymentMode;
   String? paymentReference;
-  int? amount;
+  dynamic amount;
   int? userId;
   String? paymentStatus;
   dynamic signature;
